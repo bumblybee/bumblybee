@@ -23,11 +23,11 @@ I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Expre
 &nbsp;
 ## :bar_chart: My GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bumblybee&title=Commit" alt="bumblybee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bumblybee&title=Commit" alt="bumblybee" /></a> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bumblybee&" alt="bumblybee" /></p></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumblybee&show_icons=true&hide=java,html&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bumblybee&" alt="bumblybee" /></p>
+
 
 
 ---
