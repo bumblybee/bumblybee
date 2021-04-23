@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://twitter.com/hess_tiffani" target="blank"><img src="https://img.shields.io/twitter/follow/hess_tiffani?logo=twitter&style=for-the-badge" alt="hess_tiffani" /></a> </p>
+<p align="left"><img alt="Twitter" src="https://img.shields.io/badge/hess_tiffani-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></p>
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tiffani Hess.
 
