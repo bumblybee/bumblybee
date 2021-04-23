@@ -1,4 +1,4 @@
-![Retro GH Banner (1)](https://user-images.githubusercontent.com/47286930/115927438-0d251000-a44a-11eb-86c5-e99517a3b1fc.png)
+![Retro GH Banner](https://user-images.githubusercontent.com/47286930/115927840-b5d36f80-a44a-11eb-85e8-3c4f440289a9.png)
 
 <a href="https://twitter.com/hess_tiffani" align="left"><img alt="Twitter" src="https://img.shields.io/badge/@hess_tiffani-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
