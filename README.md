@@ -4,7 +4,6 @@
 
 
 ## :mega: About Me
-
 I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Express**, **PostgreSQL**, and **MongoDB**. You can check out my full toolkit below!
 
 ---  
@@ -17,7 +16,7 @@ I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Expre
 ---  
 &nbsp;
 ## :rocket: Current endeavors
-###`PERN (Postgres, Express, React, Node)` application for a weight-loss program.
+`PERN (Postgres, Express, React, Node)` application for a weight-loss program.
 ---  
 
 &nbsp;
