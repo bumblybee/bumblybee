@@ -22,7 +22,7 @@ I'm a web developer with a focus on JavaScript, React, Node, Express, Postgres, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumblybee&show_icons=true&hide=java,html&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tiffani's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumblybee&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Tiffani's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumblybee&show_icons=true&hide=total-stars,total-prs&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
