@@ -26,7 +26,6 @@ I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Expre
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bumblybee&" alt="bumblybee" /></p>
 
-[![Tiffani's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumblybee&show_icons=true&hide=total-stars,total-prs&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
