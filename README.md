@@ -2,7 +2,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tiffani Hess.
 
 
-### About Me
+## About Me
 I'm a web developer with a focus on JavaScript, React, Node, Express, Postgres, and MongoDB. You can checkout my full toolkit below!
 
 ---
@@ -13,7 +13,7 @@ I'm a web developer with a focus on JavaScript, React, Node, Express, Postgres, 
 
 ---
 
-### Current endeavors:
+## Current endeavors:
 🔭  `PERN (Postgres, Express, React, Node)` stack application.
 
 ---
