@@ -3,6 +3,8 @@
 
 
 ## About Me
+![Twitter Follow](https://img.shields.io/twitter/follow/hess_tiffani?style=social)
+---
 I'm a web developer with a focus on JavaScript, React, Node, Express, Postgres, and MongoDB. You can checkout my full toolkit below!
 
 ---
@@ -15,7 +17,6 @@ I'm a web developer with a focus on JavaScript, React, Node, Express, Postgres, 
 
 ## Current endeavors:
 🔭  `PERN (Postgres, Express, React, Node)` stack application.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bumblybee&repo=trails)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## :bar_chart: My GitHub Stats
@@ -26,20 +27,7 @@ I'm a web developer with a focus on JavaScript, React, Node, Express, Postgres, 
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/hess_tiffani?style=social)
----
-
 <!--
-**bumblybee/bumblybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bumblybee&repo=trails)](https://github.com/anuraghazra/github-readme-stats)
 -->
