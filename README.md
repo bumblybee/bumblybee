@@ -17,7 +17,7 @@ I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Expre
 ---  
 &nbsp;
 ## :rocket: Current endeavors
-`PERN (Postgres, Express, React, Node)` application.
+`PERN (Postgres, Express, React, Node)` application for a weight-loss program.
 ---  
 
 &nbsp;
