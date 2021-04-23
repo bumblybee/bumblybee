@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Express**, **Postgres**, and **MongoDB**. You can check out my full toolkit below!
+I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Express**, **PostgreSQL**, and **MongoDB**. You can check out my full toolkit below!
 
 ---  
 
