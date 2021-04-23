@@ -16,6 +16,16 @@ I'm a web developer with a focus on JavaScript, React, Node, Express, Postgres, 
 ### Current endeavors:
 🔭  `PERN (Postgres, Express, React, Node)` stack application.
 
+---
+
+## :bar_chart: My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumblybee&hide=java,html,css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tiffani's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumblybee&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/hess_tiffani?style=social)
 ---
 
