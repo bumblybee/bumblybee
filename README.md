@@ -1,9 +1,8 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tiffani Hess.
-
+![Twitter Follow](https://img.shields.io/twitter/follow/hess_tiffani?style=social)
 
 ## About Me
-![Twitter Follow](https://img.shields.io/twitter/follow/hess_tiffani?style=social)
 
 I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Express**, **Postgres**, and **MongoDB**. You can check out my full toolkit below!
 
