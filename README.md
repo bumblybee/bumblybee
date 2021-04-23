@@ -3,7 +3,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tiffani Hess.
 
 
-## About Me
+## :mega: About Me
 
 I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Express**, **PostgreSQL**, and **MongoDB**. You can check out my full toolkit below!
 
