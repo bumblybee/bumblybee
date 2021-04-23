@@ -4,8 +4,10 @@
 
 ## About Me
 
-I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Express**, **Postgres**, and **MongoDB**. You can check out my full toolkit below!  
+I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Express**, **Postgres**, and **MongoDB**. You can check out my full toolkit below!
+
 ---  
+
 &nbsp;
 🧰 <ins> Toolkit </ins>
 
@@ -13,7 +15,7 @@ I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Expre
 
 ---  
 &nbsp;
-## :rocket: Current endeavors:
+## :rocket: Current endeavors
 `PERN (Postgres, Express, React, Node)` stack application.
 ---  
 
