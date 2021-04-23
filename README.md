@@ -14,8 +14,8 @@ I'm a web developer with a focus on **JavaScript**, **React**, **Node**, **Expre
 
 ---
 
-## Current endeavors:
-🔭  `PERN (Postgres, Express, React, Node)` stack application.
+## :rocket: Current endeavors:
+`PERN (Postgres, Express, React, Node)` stack application.
 ---
 
 ## :bar_chart: My GitHub Stats
