@@ -15,7 +15,7 @@ I'm a web developer with a focus on JavaScript, React, Node, Express, Postgres, 
 
 ## Current endeavors:
 🔭  `PERN (Postgres, Express, React, Node)` stack application.
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bumblybee&repo=trails)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## :bar_chart: My GitHub Stats
