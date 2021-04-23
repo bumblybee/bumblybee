@@ -1,11 +1,12 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tiffani Hess.
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhess_tiffani)
 
 ## About Me
 I'm a web developer with a focus on JavaScript, React, Node, Express, Postgres, and MongoDB.
 
 
 ## Current endeavors:
-🔭  A `PERN (Postgres, Express, React, Node)` stack application.
+🔭  `PERN (Postgres, Express, React, Node)` stack application.
 
 <!--
 **bumblybee/bumblybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
