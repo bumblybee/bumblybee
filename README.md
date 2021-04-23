@@ -1,4 +1,7 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/hess_tiffani?style=social)  
+![Twitter Follow](https://img.shields.io/twitter/follow/hess_tiffani?style=social) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bumblybee" alt="bumblybee" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/hess_tiffani" target="blank"><img src="https://img.shields.io/twitter/follow/hess_tiffani?logo=twitter&style=for-the-badge" alt="hess_tiffani" /></a> </p>
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tiffani Hess.
 
 
