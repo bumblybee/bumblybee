@@ -1,6 +1,6 @@
 ![Retro GH Banner](https://user-images.githubusercontent.com/47286930/115927840-b5d36f80-a44a-11eb-85e8-3c4f440289a9.png)
 
-<a href="ttps://linkedin.com/in/tiffanihess" align="left"><img alt="LinkedIn" src="https://img.shields.io/badge/tiffanihess-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tiffanihess" align="left"><img alt="LinkedIn" src="https://img.shields.io/badge/tiffanihess-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tiffani.
