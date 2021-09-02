@@ -22,7 +22,7 @@ I'm a web developer currently working in **JavaScript**, **React**, **Node**, **
 ## :rocket: Current Endeavors
 `PERN (Postgres, Express, React, Node)` application for tracking spider care.
   
-`React, Python, Postgres` time-blocking application.
+`React, Python, Postgres, Nginx` time-blocking application.
   
 ---  
 
