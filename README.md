@@ -20,9 +20,9 @@ I'm a web developer currently working in **JavaScript**, **React**, **Ruby on Ra
 ---  
 &nbsp;
 ## :rocket: Current Endeavors
-`PERN (Postgres, Express, React, Node)` application for tracking spider care.
+`PERN (Postgres, Express, React, Node)` Chrome extension that allows copying text from around the web to Google Docs.
   
-`React, Python, Postgres, Nginx` time-blocking application.
+`JavaScript, React, Ruby on Rails, Postgres` time-blocking application.
   
 ---  
 
