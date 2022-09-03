@@ -21,6 +21,7 @@ I'm a web developer and designer currently working with **JavaScript**, **Vue**,
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="50" height="50" style="max-width:50%;margin-right:16px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="60" height="60" style="max-width:50%;margin-right:16px;">
 <img src="https://raw.github.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" width="50" height="50" style="max-width:50%;margin-right:16px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="figma" width="50" height="50" style="max-width:50%;margin-right:16px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" style="max-width:50%;margin-right:16px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="60" height="60" style="max-width:50%;margin-right:16px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="max-width:50%;margin-right:16px;">
