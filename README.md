@@ -42,7 +42,7 @@ I'm a web developer and designer currently working with **JavaScript**, **Vue**,
   
 ---  
 &nbsp;
-## :rocket: Current Endeavors
+## :rocket: Current Personal Endeavors
 
 `PERN (Postgres, Express, React, Node)` Chrome extension that allows copying text from around the web to Google Docs.
 
