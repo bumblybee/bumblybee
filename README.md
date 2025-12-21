@@ -49,7 +49,7 @@ I'm a software developer and designer currently working with **JavaScript/TypeSc
 &nbsp;
 ## :rocket: Current Personal Endeavors
 
-`PERN (Postgres, Express, React, Node)` Chrome extension that allows copying text from around the web to Google Docs.
+Vue, Node, Python, Postgres application for tracking US legislator voting records.
 
 ---  
 
@@ -58,8 +58,9 @@ I'm a software developer and designer currently working with **JavaScript/TypeSc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumblybee&show_icons=true&hide=java,html&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bumblybee&theme=calm" alt="bumblybee" /></p>
-
+-->
 <!--
 <p align="left"><img src="https://activity-graph.herokuapp.com/graph?username=bumblybee&theme=one-dark&hide_border=true&area=true" style="width:700px;" /></p>
 -->
